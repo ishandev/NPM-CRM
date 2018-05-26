@@ -1,5 +1,5 @@
 {
-    "name": "packages/50x-solo-a-star-wars-story-2018-hd/download",
+    "name": "50x-solo-a-star-wars-story-2018-hd/download",
     "type": "library",
     "description": "this is description",
     "keywords": ["framework", "http", "rest", "web service", "curl", "client", "HTTP client"],
